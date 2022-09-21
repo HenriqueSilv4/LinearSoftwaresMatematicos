@@ -2,7 +2,7 @@
 -- Data 19/09/2022
 
 -- ENUNCIADO
--- E) Quantos produtos diferentes cada cliente comprou, independente de quantidade de venda, preço e data (exibir Nome do Cliente)
+-- F) Quantos produtos diferentes cada cliente comprou, independente de quantidade de venda, preÃ§o e data (exibir Nome do Cliente)
 
 CREATE   PROCEDURE [dbo].[STP_Produtos_TotalDeProdutosPorCliente]
 AS
