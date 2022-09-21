@@ -10,7 +10,7 @@ Desafio da empresa Linear Softwares Matemáticos
 [Resolução](https://github.com/HenriqueSilv4/LinearSoftwaresMatematicos/blob/main/Questao3.cs)
 
 # <h3>Questão 4</h3>
-[Resolução](https://github.com/HenriqueSilv4/LinearSoftwaresMatematicos/blob/main/Questao4.cs)
+[Resolução](https://github.com/HenriqueSilv4/LinearSoftwaresMatematicos/blob/main/Quest%C3%A3o4.cs)
 
 # <h3>Questão 5</h3>
 * [Tabela Clientes](https://github.com/HenriqueSilv4/LinearSoftwaresMatematicos/blob/main/Banco%20de%20Dados/Tabelas/Clientes.sql)
