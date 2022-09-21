@@ -5,8 +5,8 @@ Desafio da empresa Linear Softwares Matemáticos
 [Resolução](https://github.com/HenriqueSilv4/LinearSoftwaresMatematicos/blob/main/Questao1.cs)
 
 # <h3>Questão 2</h3>
-<b>True</b>
-<b>True</b>
+* A ) <b>True</b>
+* B ) <b>True</b>
 
 # <h3>Questão 3</h3>
 [Resolução](https://github.com/HenriqueSilv4/LinearSoftwaresMatematicos/blob/main/Questao3.cs)
